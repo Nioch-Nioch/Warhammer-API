@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './Komet.png'
+import logo from '../assets/png/Komet.png'
 import LoadingIndicator from './LoadingIndicator'
 import Sprite from './Sprite';
 

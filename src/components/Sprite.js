@@ -1,8 +1,8 @@
 import React from 'react';
 import { useSprite } from 'react-sprite-animator';
-import gold from './coins/gold.png';
-import bronze from './coins/bronze.png';
-import silver from './coins/silver.png';
+import gold from '../assets/coins/gold.png';
+import bronze from '../assets/coins/bronze.png';
+import silver from '../assets/coins/silver.png';
 
 // I use react-sprite-animator to make that coins movement u can read more info: https://www.npmjs.com/package/react-sprite-animator
 

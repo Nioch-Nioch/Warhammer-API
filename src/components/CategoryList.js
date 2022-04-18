@@ -17,7 +17,6 @@ const CategoryList = ({categoryList, isLoadingCategory, onCategoryClicked}, prop
      );
 }
 
-// I use PropTypes only in this component just for show my skills. In this project i don't need this funcionality
 CategoryList.propTypes = {
     onCategoryClicked: PropTypes.func.isRequired,
     isLoadingCategory: PropTypes.bool,
